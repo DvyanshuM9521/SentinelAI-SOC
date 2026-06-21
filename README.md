@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/Dashboard.png" width="100%">
+</p>
+
 # SentinelAI-SOC
 
 Enterprise-grade Security Operations Center (SOC) platform built with React and FastAPI.
